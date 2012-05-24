@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupedListControl", "GroupedListControl.csproj", "{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupedListDemo", "..\GroupedListDemo\GroupedListDemo.csproj", "{B90BCCEB-6690-44D2-94CC-8C16D1FC8EA6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB} = {2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}.Debug|x86.ActiveCfg = Debug|x86
+		{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}.Debug|x86.Build.0 = Debug|x86
+		{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}.Release|x86.ActiveCfg = Release|x86
+		{2C43437C-5E27-48BE-BAC3-A3D0CDB30BFB}.Release|x86.Build.0 = Release|x86
+		{B90BCCEB-6690-44D2-94CC-8C16D1FC8EA6}.Debug|x86.ActiveCfg = Debug|x86
+		{B90BCCEB-6690-44D2-94CC-8C16D1FC8EA6}.Debug|x86.Build.0 = Debug|x86
+		{B90BCCEB-6690-44D2-94CC-8C16D1FC8EA6}.Release|x86.ActiveCfg = Release|x86
+		{B90BCCEB-6690-44D2-94CC-8C16D1FC8EA6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
