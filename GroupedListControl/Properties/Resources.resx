@@ -121,16 +121,10 @@
   <data name="CollapsedGroupSmall_png_1616" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CollapsedGroupSmall_png_1616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CollapsedGroup_png_1616" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CollapsedGroup_png_1616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="EmptyGroupSmall_png_1616" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\EmptyGroupSmall_png_1616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ExpandedGroupSmall_png_1616" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ExpandedGroupSmall_png_1616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ExpandedGroup_png_1616" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ExpandedGroup_png_1616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
